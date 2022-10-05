@@ -94,6 +94,7 @@
 	<a href="${pageContext.request.contextPath}/download1">다운로드</a>
 	<img src="upload/muffin.png"/>
 <!-- 	외부에 대한 파일 경로를 참조하려면 config의 servlet을 수정하고 이런 식으로 참고해준다. -->
+	<h1>깃허브에 반영할 업데이트 소스</h1>
 </body>
 </html>
 
